@@ -8,9 +8,9 @@ Your goal is write a function that converts English into Pig Latin.  Here's a ru
 
 ## Rules
 
-  1) Words that start with a vowel have -way added to the end of them.  So, for example, _apple_ becomes _appleway_.
-  2) Words that start with a consonant have that consonant placed at the end of the word and -ay added to the end.  For example, _bear_ becomes _earbay_.
-  3) Words that start with multiple consonants have *all* the consonants placed at the end and -ay added.  So, _church_ becomes _urchchay_.
+- Words that start with a vowel have -way added to the end of them.  So, for example, _apple_ becomes _appleway_.
+- Words that start with a consonant have that consonant placed at the end of the word and -ay added to the end.  For example, _bear_ becomes _earbay_.
+- Words that start with multiple consonants have *all* the consonants placed at the end and -ay added.  So, _church_ becomes _urchchay_.
 
 That's it.
 
